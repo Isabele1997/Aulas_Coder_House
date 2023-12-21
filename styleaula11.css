@@ -1,0 +1,14 @@
+div:hover{color:orange}
+a:active{color:blue;}
+a:visited{color:rgb(208, 255, 0)}
+a:visited{color: blueviolet;}
+input:focus{background-color: yellow;}
+li:first-child{color:orange}
+li:last-child{color:red}
+li:nth-child(2n+2):not(.destacado){color:green}
+input[type="checkbox"]:checked
+input[type="radio"]:checked{margin: 25px;}
+option:checked{color:red}
+input:disabled{background: aqua;}
+input[type=email]:invalid{background:orange}
+input[type=email]:valid{background:green}

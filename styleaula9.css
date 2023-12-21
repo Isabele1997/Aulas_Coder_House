@@ -1,0 +1,9 @@
+section article h2{
+    background-color: yellowgreen;
+    width: 500px;
+    height: 500px;}
+.essetemclasse{color:rgb(123, 29, 104);font: size 40px;;}
+#produtos {color:blueviolet;background-color: bisque;}
+#bebidas {color:black; background-color: olivedrab;}
+ul{list-style-type: square; font-size: 20px;font-style: italic;}
+

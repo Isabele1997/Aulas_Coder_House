@@ -1,0 +1,7 @@
+.noticia{background-color: lightgray;}
+.noticia_título{font-size: 20px;}
+.noticia--destacada{background-color: dimgray;}
+.noticia_título--upercase{text-transform: uppercase;}
+span{background-color:orange; padding: 20px;border: solid 3px blue;}
+p, section, article{background-color: aquamarine;padding: 20px;border: solid 3px black}
+p{padding: 20px; border:solid 3px color blue; width: 300px; height: 100px; overflow: auto}
